@@ -2,7 +2,7 @@
 - 👀 I’m interested in Odoo ERP
 - 🌱 I’m currently learning Odoo (Open ERP), Python, PostgreSQL, Java Script, XML, PHP, Bootstrap, and CSS.
 - 💞️ I’m looking to collaborate on Odoo & Opensource Projects
-- 📫 Reach out to me : pandyarahul@outlook.in
+- :email: Reach out to me : pandyarahul@outlook.in
 - :earth_asia: https://pandyarahul.odoo.com/
 
 <!---
