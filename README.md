@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Odoo & Opensource Projects
 - :envelope: Reach out to me : pandyarahul@outlook.in
 - :earth_asia: https://pandyarahul.odoo.com/
+- Talk is cheap, show me the code.
 
 <!---
 pandyarahul/pandyarahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
