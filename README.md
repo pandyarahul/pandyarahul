@@ -1,4 +1,4 @@
-| [![Pandya Rahul](https://img.shields.io/badge/Pandya-Rahul-github)](https://shields.io/) | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=pandyarahul.pandyarahul) | ![Profile Views](https://komarev.com/ghpvc/?username=pandyarahul&color=green) | ![Stars](https://img.shields.io/github/stars/pandyarahul?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
+| [![Pandya Rahul](https://img.shields.io/badge/Pandya-Rahul-github)](https://shields.io/) | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=pandyarahul.pandyarahul) | ![Profile Views](https://komarev.com/ghpvc/?username=pandyarahul&color=green) | ![Stars](https://img.shields.io/github/stars/pandyarahul?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
 --| --| --| --|
 
 - 👋 Hi, I’m @pandyarahul, Experienced Odoo Developer
